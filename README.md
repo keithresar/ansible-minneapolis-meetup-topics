@@ -1,6 +1,3 @@
-# ansible-minneapolis-meetup-topics
-Topics and schedule for Minneapolis Ansible Meetups
-
 # Ansible Minneapolis Meetups!
 
 Welcome to the Ansible Minneapolis GitHub happy place!
