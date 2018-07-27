@@ -4,11 +4,11 @@ Welcome to the Ansible Minneapolis GitHub happy place!
 
 Managing a meetup requires a community effort!  We are trying to get more community involvement in choosing speakers and topics for our meetups.  What better way than creating a "Meetup Repository of Awesomeness"?!
 
-###[Look at Proposed Topics](https://github.com/keithresar/ansible-minneapolis-meetup-topics/projects/1)
+### [Look at Proposed Topics](https://github.com/keithresar/ansible-minneapolis-meetup-topics/projects/1)
 
 This repo is a place for EVERYONE to **propose** and **vote on** topics for upcoming meetups. If, instead, you are looking to RSVP for a meetup, go to [https://www.meetup.com/Ansible-Minneapolis/](https://www.meetup.com/Ansible-Minneapolis/).
 
-###[Propose a New Topic](https://github.com/keithresar/ansible-minneapolis-meetup-topics/issues)
+### [Propose a New Topic](https://github.com/keithresar/ansible-minneapolis-meetup-topics/issues)
 
 Whether you can speak on it or just have an interesting idea, create a new issue so we can track and schedule upcoming topics.  Consider:
 
